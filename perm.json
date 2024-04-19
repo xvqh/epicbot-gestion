@@ -1,0 +1,382 @@
+{
+    "defaultperm": [
+        {
+            "name": "addrole",
+            "perm": 5
+        },
+        {
+            "name": "removerole",
+            "perm": 4
+        },
+        {
+            "name": "massiverole",
+            "perm": 7
+        },
+        {
+            "name": "unmassiverole",
+            "perm": 7
+        },
+        {
+            "name": "rolemembers",
+            "perm": 5
+        },
+        {
+            "name": "debug",
+            "perm": "owner"
+        },
+        {
+            "name": "kick",
+            "perm": 4
+        },
+        {
+            "name": "ban",
+            "perm": 5
+        },
+        {
+            "name": "unban",
+            "perm": 3
+        },
+        {
+            "name": "unbanall",
+            "perm": 6
+        },
+        {
+            "name": "derank",
+            "perm": 5
+        },
+        {
+            "name": "mute",
+            "perm": 3
+        },
+        {
+            "name": "tempmute",
+            "perm": 2
+        },
+        {
+            "name": "unmute",
+            "perm": 3
+        },
+        {
+            "name": "clear",
+            "perm": 5
+        },
+        {
+            "name": "warn",
+            "perm": 1
+        },
+        {
+            "name": "delwarn",
+            "perm": 3
+        },
+        {
+            "name": "anti",
+            "perm": 7
+        },
+        {
+            "name": "secur",
+            "perm": 7
+        },
+        {
+            "name": "change",
+            "perm": "buyer"
+        },
+        {
+            "name": "whitelist",
+            "perm": "owner"
+        },
+        {
+            "name": "unwhitelist",
+            "perm": "owner"
+        },
+        {
+            "name": "serverlock",
+            "perm": "owner"
+        },
+        {
+            "name": "set-perm",
+            "perm": "owner"
+        },
+        {
+            "name": "set-slow",
+            "perm": "owner"
+        },
+        {
+            "name": "gcreate",
+            "perm": 5
+        },
+        {
+            "name": "ginfos",
+            "perm": 4
+        },
+        {
+            "name": "gend",
+            "perm": 5
+        },
+        {
+            "name": "renew",
+            "perm": 6
+        },
+        {
+            "name": "mutelist",
+            "perm": 2
+        },
+        {
+            "name": "sanctions",
+            "perm": 1
+        },
+        {
+            "name": "logs",
+            "perm": 6
+        },
+        {
+            "name": "ghostping",
+            "perm": 5
+        },
+        {
+            "name": "lock",
+            "perm": 5
+        },
+        {
+            "name": "unlock",
+            "perm": 4
+        },
+        {
+            "name": "slowmode",
+            "perm": 5
+        },
+        {
+            "name": "lockurl",
+            "perm": "buyer"
+        },
+        {
+            "name": "perms",
+            "perm": 3
+        },
+        {
+            "name": "embed",
+            "perm": 5
+        },
+        {
+            "name": "set-prefix",
+            "perm": "owner"
+        },
+        {
+            "name": "checkperm",
+            "perm": 5
+        },
+        {
+            "name": "boosters",
+            "perm": 4
+        },
+        {
+            "name": "vent",
+            "perm": "owner"
+        },
+        {
+            "name": "guilds",
+            "perm": "owner"
+        },
+        {
+            "name": "allbots",
+            "perm": 5
+        },
+        {
+            "name": "soutien",
+            "perm": 6
+        },
+        {
+            "name": "tempvoc",
+            "perm": 6
+        },
+        {
+            "name": "mybot",
+            "perm": "owner"
+        },
+        {
+            "name": "checkperm",
+            "perm": 4
+        },
+        {
+            "name": "vocal",
+            "perm": 0
+        },
+        {
+            "name": "config-prison",
+            "perm": 7
+        },
+        {
+            "name": "counters",
+            "perm": 7
+        },
+        {
+            "name": "join-settings",
+            "perm": 6
+        },
+        {
+            "name": "rolereact",
+            "perm": 7
+        },
+        {
+            "name": "rolebutton",
+            "perm": 7
+        },
+        {
+            "name": "antijoin",
+            "perm": 6
+        },
+        {
+            "name": "prison",
+            "perm": 3
+        },
+        {
+            "name": "commands",
+            "perm": 3
+        },
+        {
+            "name": "create",
+            "perm": 4
+        },
+        {
+            "name": "snipe",
+            "perm": 1
+        },
+        {
+            "name": "help",
+            "perm": 0
+        },
+        {
+            "name": "helpall",
+            "perm": 4
+        },
+        {
+            "name": "avatar",
+            "perm": 0
+        },
+        {
+            "name": "banner",
+            "perm": 0
+        },
+        {
+            "name": "snap",
+            "perm": 0
+        },
+        {
+            "name": "theme",
+            "perm": 6
+        },
+        {
+            "name": "public",
+            "perm": 6
+        },
+        {
+            "name": "permdesac",
+            "perm": 7
+        },
+        {
+            "name": "voicemove",
+            "perm": 5
+        },
+        {
+            "name": "bringall",
+            "perm": 6
+        },
+        {
+            "name": "info",
+            "perm": 0
+        },
+        {
+            "name": "gay",
+            "perm": 0
+        },
+        {
+            "name": "kiss",
+            "perm": 0
+        },
+        {
+            "name": "porngif",
+            "perm": 1
+        },
+        {
+            "name": "wasted",
+            "perm": 0
+        },
+        {
+            "name": "activity",
+            "perm": "owner"
+        },
+        {
+            "name": "setprofil",
+            "perm": "buyer"
+        },
+        {
+            "name": "leave",
+            "perm": "buyer"
+        },
+        {
+            "name": "bl",
+            "perm": "owner"
+        },
+        {
+            "name": "unbl",
+            "perm": "owner"
+        },
+        {
+            "name": "punition",
+            "perm": "owner"
+        },
+        {
+            "name": "ping",
+            "perm": 1
+        },
+        {
+            "name": "hide",
+            "perm": 6
+        },
+        {
+            "name": "unhide",
+            "perm": 6
+        },
+        {
+            "name": "join",
+            "perm": 4
+        },
+        {
+            "name": "play",
+            "perm": 0
+        },
+        {
+            "name": "loop",
+            "perm": 0
+        },
+        {
+            "name": "stop",
+            "perm": 0
+        },
+        {
+            "name": "skip",
+            "perm": 0
+        },
+        {
+            "name": "setvolume",
+            "perm": 3
+        },
+        {
+            "name": "resume",
+            "perm": 0
+        },
+        {
+            "name": "prevnames",
+            "perm": 0
+        }
+    ],
+    "antiraid":{
+        "antilink": 10,
+        "antibot": "derank",
+        "antispam": 8,
+        "lockurl": "kick",
+        "antichannel": "kick",
+        "guildupdate": "ban",
+        "roleupdate": "kick",
+        "role": "kick"
+    }
+}
